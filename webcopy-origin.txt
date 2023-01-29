@@ -1,0 +1,376 @@
+Uri: http://royalerp.ru/css/aos.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\aos.min-1.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/css/footer.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\footer.min-1.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/css/header.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\header.min-2.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/css/header.min.css?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\header.min-3.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/css/normalize.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\normalize.min-2.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/css/normalize.min.css?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\normalize.min-3.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/css/oplata.min.css?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\oplata.min-1.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/css/style.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\style.min-1.css
+Content Type: text/css
+
+Uri: http://royalerp.ru/fonts/Montserrat-Bold.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Bold-1.woff
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/fonts/Montserrat-Bold.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Bold-1.woff2
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/fonts/Montserrat-Medium.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Medium-1.woff
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/fonts/Montserrat-Medium.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Medium-1.woff2
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/fonts/Montserrat-Regular.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Regular-1.woff
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/fonts/Montserrat-Regular.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Regular-1.woff2
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/fonts/Montserrat-SemiBold.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-SemiBold-1.woff
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/fonts/Montserrat-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-SemiBold-1.woff2
+Content Type: application/octet-stream
+
+Uri: http://royalerp.ru/img/icon-img/book.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-img\book-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/icon-img/map.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-img\map-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/icon-svg/arrow-left.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\arrow-left-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/arrow-right.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\arrow-right-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/balance_wallet.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\balance_wallet-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/block.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\block-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/brush.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\brush-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/discord.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\discord-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/tg.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\tg-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/user.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\user-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/vk.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\vk-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/voice.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\voice-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/icon-svg/youtube.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\youtube-1.svg
+Content Type: image/svg+xml
+
+Uri: http://royalerp.ru/img/islands/1.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\1-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/islands/2.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\2-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/islands/3.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\3-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/islands/4.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\4-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/islands/5.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\5-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/islands/6.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\6-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/logo.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\logo-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/img/main.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\main-1.png
+Content Type: image/png
+
+Uri: http://royalerp.ru/index.html
+File Name: C:\Downloaded Web Sites\royalerp.ru\index-1.html
+Content Type: text/html
+
+Uri: http://royalerp.ru/js/aos.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\aos.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://royalerp.ru/js/app.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\app.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://royalerp.ru/js/menu.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\menu.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://royalerp.ru/js/spoller.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\spoller.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://royalerp.ru/js/warning-profil.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\warning-profil.min-2.js
+Content Type: application/x-javascript
+
+Uri: http://royalerp.ru/js/warning-profil.min.js?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\warning-profil.min-3.js
+Content Type: application/x-javascript
+
+Uri: http://royalerp.ru/map.html
+File Name: C:\Downloaded Web Sites\royalerp.ru\map-1.html
+Content Type: text/html
+
+Uri: http://royalerp.ru/oplata.html
+File Name: C:\Downloaded Web Sites\royalerp.ru\oplata-1.html
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-3.6.3.min.js
+File Name: C:\Downloaded Web Sites\royalerp.ru\jquery-3.6.3.min.js
+Content Type: application/javascript
+
+Uri: https://royalerp.ru/
+File Name: C:\Downloaded Web Sites\royalerp.ru\index.htm
+Content Type: text/html
+
+Uri: https://royalerp.ru/css/aos.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\aos.min.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/css/footer.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\footer.min.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/css/header.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\header.min.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/css/header.min.css?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\header.min-1.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/css/normalize.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\normalize.min.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/css/normalize.min.css?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\normalize.min-1.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/css/oplata.min.css?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\oplata.min.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/css/style.min.css?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\css\style.min.css
+Content Type: text/css
+
+Uri: https://royalerp.ru/fonts/Montserrat-Bold.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Bold.woff
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/fonts/Montserrat-Bold.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/fonts/Montserrat-Medium.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Medium.woff
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/fonts/Montserrat-Medium.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/fonts/Montserrat-Regular.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Regular.woff
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/fonts/Montserrat-Regular.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/fonts/Montserrat-SemiBold.woff
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-SemiBold.woff
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/fonts/Montserrat-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\royalerp.ru\fonts\Montserrat-SemiBold.woff2
+Content Type: application/octet-stream
+
+Uri: https://royalerp.ru/img/icon-img/book.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-img\book.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/icon-img/map.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-img\map.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/icon-svg/arrow-left.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/arrow-right.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/balance_wallet.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\balance_wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/block.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\block.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/brush.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\brush.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/discord.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/tg.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/user.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\user.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/vk.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\vk.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/voice.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\voice.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/icon-svg/youtube.svg
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\icon-svg\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://royalerp.ru/img/islands/1.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\1.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/islands/2.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\2.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/islands/3.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\3.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/islands/4.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\4.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/islands/5.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\5.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/islands/6.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\islands\6.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/logo.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\logo.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/img/main.png
+File Name: C:\Downloaded Web Sites\royalerp.ru\img\main.png
+Content Type: image/png
+
+Uri: https://royalerp.ru/index.html
+File Name: C:\Downloaded Web Sites\royalerp.ru\index.html
+Content Type: text/html
+
+Uri: https://royalerp.ru/js/aos.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\aos.min.js
+Content Type: application/x-javascript
+
+Uri: https://royalerp.ru/js/app.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\app.min.js
+Content Type: application/x-javascript
+
+Uri: https://royalerp.ru/js/menu.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\menu.min.js
+Content Type: application/x-javascript
+
+Uri: https://royalerp.ru/js/spoller.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\spoller.min.js
+Content Type: application/x-javascript
+
+Uri: https://royalerp.ru/js/warning-profil.min.js?_v=20220812101339
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\warning-profil.min.js
+Content Type: application/x-javascript
+
+Uri: https://royalerp.ru/js/warning-profil.min.js?_v=20221112121223
+File Name: C:\Downloaded Web Sites\royalerp.ru\js\warning-profil.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://royalerp.ru/map.html
+File Name: C:\Downloaded Web Sites\royalerp.ru\map.html
+Content Type: text/html
+
+Uri: https://royalerp.ru/oplata.html
+File Name: C:\Downloaded Web Sites\royalerp.ru\oplata.html
+Content Type: text/html
+
